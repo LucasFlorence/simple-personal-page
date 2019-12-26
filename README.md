@@ -1,2 +1,1 @@
-# simple-personal-page
- 
+# Simple Personal Page
